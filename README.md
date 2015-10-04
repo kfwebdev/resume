@@ -1,7 +1,9 @@
-# Kentaro Fischer
-## Front End Engineer  
+# Kentaro Fischer  
+### Front End Engineer  
 
-> [webdev@kentarofischer.com](webdev@kentarofischer.com) &nbsp;| &nbsp;(999) 888-7777&nbsp; |&nbsp; [github.com/kfwebdev](http://github.com/kfwebdev)&nbsp; |&nbsp; [download pdf](resume.pdf) 
+------
+
+> [webdev@kentarofischer.com](webdev@kentarofischer.com) &nbsp;| &nbsp;(999) 888-7777&nbsp; |&nbsp; [github.com/kfwebdev](http://github.com/kfwebdev)&nbsp; |&nbsp; [download pdf](resume.pdf)
 
 ------  
 
@@ -34,7 +36,7 @@ __KF Web Development__ &nbsp;:&nbsp; *Principal* &nbsp;:&nbsp; __2009-2011__
   Full service consultation and web development for San Francisco bay area businesses and organizations. Provided WordPress solutions within budget and client time lines. Projects ranging from live web video streaming events to eCommerce stores and organization websites.
 
 __Entercom Communications__ &nbsp;:&nbsp; *Web Programmer* &nbsp;:&nbsp; __2007-2009__  
-  Worked alongside Entercom Web Director to maintain web sites for 96.5 KOIT, 102.1 KDFC and 95.7 KBWF (3 Top 10 Stations in #4 Market in the country). In April, 2008 KDFC was voted “Best Digital Content” across 250 Entercom radio websites nationwide. Developed custom content for station promotions and designed display ads. 
+  Worked alongside Entercom Web Director to maintain web sites for 96.5 KOIT, 102.1 KDFC and 95.7 KBWF (3 Top 10 Stations in #4 Market in the country). In April, 2008 KDFC was voted “Best Digital Content” across 250 Entercom radio websites nationwide. Developed custom content for station promotions and designed display ads.
 
 __Alan Computech__ &nbsp;:&nbsp; *Web Specialist* &nbsp;:&nbsp; __2006-2007__  
   Maintained company web store and managed daily data deployment to Pricegrabber, Google Adwords, and Yahoo marketing. Developed eBay Auction Scheduler in PHP to automate listing over 10,000 computer parts auctions.
