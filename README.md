@@ -3,7 +3,7 @@
 
 ------
 
-> [webdev@kentarofischer.com](webdev@kentarofischer.com) &nbsp;| &nbsp;(999) 888-7777&nbsp; |&nbsp; [github.com/kfwebdev](http://github.com/kfwebdev)&nbsp; |&nbsp; [download pdf](resume.pdf)
+> [webdev@kentarofischer.com](webdev@kentarofischer.com) &nbsp;| &nbsp;(999) 888-7777&nbsp; |&nbsp; [github.com/kfwebdev](http://github.com/kfwebdev)&nbsp; |&nbsp; [download pdf](https://github.com/kfwebdev/resume/raw/a09926068944bbfce84feaeb080398e9ef4304e4/kentaroFischerResume.pdf)
 
 ------  
 
