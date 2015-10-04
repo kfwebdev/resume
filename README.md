@@ -13,12 +13,12 @@ __Epsilon.com__ : [epsilon.com](http://www.epsilon.com)
 __ADR BNY Mellon__ : [adrbnymellon.com](http://www.adrbnymellon.com)  
 * Developed website rebuild using AngularJS, Angular UI Bootstrap, and Moment.js.
 * Implemented HTML/JS/Sass components based on design document, Photoshop comps and Jira for task tracking.
-* Front end resources deployed to Crown Peak CMS and accessed by more than 15,000 visitors each month.
+* Front end resources are deployed to Crown Peak CMS and accessed by more than 15,000 visitors every month.
 
 __Cisco Learning Network__ : [learningnetwork.cisco.com](http://learningnetwork.cisco.com)  
 * Completed redesign of Cisco's Learning Network community which receives over 1.2 million visitors every month.
 * Involved end to end from initial design estimates to code development and deployment to Jive Software's Java based environment.
-* Implemented custom jQuery plugins for layout, carousel gallery, image slider, and other reusable layout components with documentation for client's reference.
+* Implemented custom jQuery plugins for layout, carousel gallery, image slider, and other reusable components with documentation for client's reference.
 
 __Delta Uplift__ : [deltauplift.com](http://www.deltauplift.com)  
 * Developed responsive dashboard for credit card portal accessed by 88,000 Delta employees.
