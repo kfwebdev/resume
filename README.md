@@ -58,4 +58,4 @@ Software : Git, Subversion, Jira, Atom, Sublime Text, WordPress, Adobe Photoshop
 *NewCircle* : Javascript Training & Angular JS Training : __2015__    
 *Toastmasters International* : Completed Competent Communicator Program : __2010__    
 *Academy X* : Microsoft Office 2007 Training : __2008__    
-*Sierra College, Rocklin* : Introduction to Unix : __2006__    
+*Sierra College, Rocklin* : Introduction to Unix : __2006__  
