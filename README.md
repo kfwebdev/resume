@@ -6,9 +6,9 @@
 ### Projects
 
 __Epsilon.com__ : [epsilon.com](http://www.epsilon.com)
-* Consulted and developed website redesign and migration from WordPress to AEM CMS.
-* Recommended project scaffolding according to requirements utilizing Gulp, LibSass, and Handlebars for REST/API templating.
-* Collaborated with team in Bangalore, India for AEM integration. Deployed instance will serve over 600,000 visitors per month.
+* Consulted and developed website redesign components for delivery to Adobe Experience Manager integration.
+* Recommended project scaffold according to requirements utilizing Gulp, LibSass, and fileInclude for templating.
+* Collaborated with team in Bangalore, India with AEM integration. Deployed instance will serve over 600,000 visitors per month.
 
 __ADR BNY Mellon__ : [adrbnymellon.com](http://www.adrbnymellon.com)  
 * Developed website rebuild using AngularJS, Angular UI Bootstrap, and Moment.js.
@@ -25,7 +25,7 @@ __Delta Uplift__ : [deltauplift.com](http://www.deltauplift.com)
 * Built page layouts from PSD comps using Sass, jQuery, Google Charts, and various jQuery plugins.
 
 __Open Source__
-* *TinyMCE Comments Plus* : Open source WordPress plugin for enhancing WordPress comments with TinyMCE. [wordpress.org/plugins](http://wordpress.org/plugins)  
+* *WP Editor Comments Plus* : Open source WordPress plugin for enhancing WordPress comments with TinyMCE. Developed using Webpack and ReactJS. [wordpress.org/plugins/wp-editor-comments-plus](https://wordpress.org/plugins/wp-editor-comments-plus/)  
 * *Audio Tournament* : Open source WordPress plugin for online audio competition community. Plugin features scheduled competitions with drag & drop voting, calculation and results generation. [audiotournament.com](http://audiotournament.com)  
 
 ------
@@ -33,7 +33,7 @@ __Open Source__
 ### Experience
 
 __Epsilon__, San Francisco, CA &nbsp;:&nbsp; *Front End Developer* &nbsp;:&nbsp; __2011-Present__    
-  Front End Developer role rapidly advancing to Senior and Lead responsibilities in projects for clients such as Apple, Intel, Activision and many more. Regular collaboration with Project Managers, Designers and Clients in small and large teams to achieve project goals within established time lines.
+  Front End Developer role rapidly advancing to Senior responsibilities in projects for clients such as Apple, Intel, Activision and many more. Regular collaboration with Project Managers, Designers and Clients in small and large teams to achieve project goals within established time lines.
 
 __KF Web Development__, San Francisco, CA &nbsp;:&nbsp; *Principal* &nbsp;:&nbsp; __2009-2011__  
   Full service consultation and web development for San Francisco bay area businesses and organizations. Provided WordPress solutions within budget and client's time lines. Projects ranging from live web video streaming events to eCommerce stores and organization websites.
@@ -48,7 +48,7 @@ __Alan Computech__, Union City, CA &nbsp;:&nbsp; *Web Specialist* &nbsp;:&nbsp; 
 
 ### Skills
 
-Code : JavaScript, Backbone, AngularJS, jQuery, jQuery UI & Mobile, HTML, HTML5, CSS2, CSS3, Sass, PHP, MySQL
+Code : JavaScript, Backbone, AngularJS, ReactJS, jQuery, jQuery UI & Mobile, HTML, HTML5, CSS2, CSS3, Sass, PHP, MySQL
 Software : Git, Subversion, Jira, Atom, Sublime Text, WordPress, Adobe Photoshop, Basecamp, Slack, Windows & Mac OSX  
 
 ------
