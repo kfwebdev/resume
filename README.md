@@ -48,7 +48,7 @@ __Alan Computech__, Union City, CA &nbsp;:&nbsp; *Web Specialist* &nbsp;:&nbsp; 
 
 ### Skills
 
-Code : JavaScript, Backbone, AngularJS, ReactJS, jQuery, jQuery UI & Mobile, HTML, HTML5, CSS2, CSS3, Sass, PHP, MySQL
+Code : JavaScript, Backbone, AngularJS, ReactJS, jQuery, jQuery UI & Mobile, HTML, HTML5, CSS2, CSS3, Sass, PHP, MySQL<br/>
 Software : Git, Subversion, Jira, Atom, Sublime Text, WordPress, Adobe Photoshop, Basecamp, Slack, Windows & Mac OSX  
 
 ------
