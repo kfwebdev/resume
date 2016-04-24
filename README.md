@@ -25,8 +25,8 @@ __Delta Uplift__ : [deltauplift.com](http://www.deltauplift.com)
 * Built page layouts from PSD comps using Sass, jQuery, Google Charts, and various jQuery plugins.
 
 __Open Source__
-* WP Editor Comments Plus : WordPress plugin for enhancing WordPress comments with TinyMCE. Developed using Webpack and ReactJS. &nbsp;  [https://wordpress.org/plugins/wp-editor-comments-plus](https://wordpress.org/plugins/wp-editor-comments-plus/)  
-* *Audio Tournament* : WordPress plugin for online audio competition community. Plugin features scheduled competitions with drag & drop voting, calculation and results generation. &nbsp; [http://audiotournament.com](http://audiotournament.com)  
+* __WP Editor Comments Plus__ : WordPress plugin for enhancing WordPress comments with TinyMCE. Developed using Webpack and ReactJS. &nbsp;  [wordpress.org/plugins/wp-editor-comments-plus](https://wordpress.org/plugins/wp-editor-comments-plus/)  
+* __Audio Tournament__ : WordPress plugin for online audio competition community. Plugin features scheduled competitions with drag & drop voting, calculation and results generation. &nbsp; [audiotournament.com](http://audiotournament.com)  
 
 ------
 
