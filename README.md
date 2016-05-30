@@ -10,7 +10,7 @@ __Epsilon.com__ : [epsilon.com](http://www.epsilon.com)
 * Recommended project scaffold according to requirements utilizing Gulp, LibSass, and fileInclude for templating.
 * Collaborated with team in Bangalore, India with AEM integration. Deployed instance will serve over 600,000 visitors per month.
 
-__ADR BNY Mellon__ : [adrbnymellon.com](http://www.adrbnymellon.com)  
+__ADR Bank of New York Mellon__ : [adrbnymellon.com](http://www.adrbnymellon.com)  
 * Developed website rebuild using AngularJS, Angular UI Bootstrap, and Moment.js.
 * Implemented HTML/JS/Sass components based on design document, Photoshop comps and Jira for task tracking.
 * Front end resources are deployed to Crown Peak CMS and accessed by more than 15,000 visitors every month.
