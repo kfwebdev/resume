@@ -11,9 +11,9 @@ __Epsilon.com__ : [epsilon.com](http://www.epsilon.com)
 * Collaborated with team in Bangalore, India with AEM integration. Deployed instance will serve over 600,000 visitors per month.
 
 __ADR Bank of New York Mellon__ : [adrbnymellon.com](http://www.adrbnymellon.com)  
-* Developed website rebuild using AngularJS, Angular UI Bootstrap, and Moment.js.
+* Developed services, controllers, filters and directives to consume REST API with AngularJS, Angular UI Bootstrap, and Moment.js.
 * Implemented HTML/JS/Sass components based on design document, Photoshop comps and Jira for task tracking.
-* Front end resources are deployed to Crown Peak CMS and accessed by more than 15,000 visitors every month.
+* Front end resources deployed to Crown Peak CMS and accessed by more than 15,000 visitors every month.
 
 __Cisco Learning Network__ : [learningnetwork.cisco.com](http://learningnetwork.cisco.com)  
 * Completed redesign of Cisco's Learning Network community which receives over 1.2 million visitors every month.
