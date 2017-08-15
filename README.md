@@ -5,9 +5,9 @@
 
 ### Projects
 __Bigcommerce.com__ : [bigcommerce.com](http://www.bigcommerce.com)
-* Estimate, develop & test new features for control panel including drag and drop dashboard, interapp communication, onboarding flow, and more.
-* Worked on team and individual projects to deliver secure, fast, product solutions and improve usability, security and customer satisfaction.
-* Identified and resolved complex challenges in legacy code base improving security and usability resulting in great customer conversion and retention.
+* Scope, develop & test new features for control panel including drag and drop dashboard, interapp communication, onboarding flow, and more.
+* Work on team and individual projects to deliver secure, fast, product solutions and improve usability, security and customer satisfaction.
+* Identify and resolve complex challenges in legacy code base improving security and usability resulting in greater customer conversion and retention.
 
 __Epsilon.com__ : [epsilon.com](http://www.epsilon.com)
 * Consulted and developed website redesign components for delivery to Adobe Experience Manager integration.
@@ -37,7 +37,7 @@ __Open Source__
 ### Experience
 
 __Bigcommerce__, San Francisco, CA &nbsp;:&nbsp; *Front End Developer II* &nbsp;:&nbsp; __2016-Present__    
-  Front end role estimating, developing, testing new functionality for the Bigcommerce online platform utilizing AngularJS, Sass and PHP. Key accomplishments include solving mobile web functionality & compatibility, new feature development from design to live product, cross platform testing, as well as learning from and mentoring team mates.
+  Front end role estimating, developing, testing new functionality for the Bigcommerce online platform utilizing AngularJS, Sass and PHP. Key accomplishments include solving mobile web functionality & compatibility, new feature development from design to live product, cross platform testing, learning from and mentoring team mates.
 
 __Epsilon__, San Francisco, CA &nbsp;:&nbsp; *Front End Developer* &nbsp;:&nbsp; __2011-2016__    
   Front End Developer with scoping, development, testing responsibilities for clients including Apple, Intel, Activision and more. Regular collaboration with Project Managers, Designers and Clients in small and large teams to achieve project goals within established timeframes.
@@ -47,9 +47,6 @@ __KF Web Development__, San Francisco, CA &nbsp;:&nbsp; *Principal* &nbsp;:&nbsp
 
 __Entercom Communications__, San Francisco, CA &nbsp;:&nbsp; *Web Programmer* &nbsp;:&nbsp; __2007-2009__  
   Worked alongside Entercom Web Director to maintain web sites for 96.5 KOIT, 102.1 KDFC and 95.7 KBWF (3 Top 10 Stations in #4 Market in the country). KDFC was voted “Best Digital Content” across 250 Entercom radio websites nationwide in April of 2008 . Developed custom content for station promotions and designed display ads.
-
-__Alan Computech__, Union City, CA &nbsp;:&nbsp; *Web Specialist* &nbsp;:&nbsp; __2006-2007__  
-  Maintained company web store and managed daily data deployment to Pricegrabber, Google Adwords, and Yahoo marketing. Developed eBay Auction Scheduler in PHP to automate listing over 10,000 computer parts auctions.
 
 -------
 
