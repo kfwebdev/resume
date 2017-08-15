@@ -4,6 +4,10 @@
 [webdev@kentarofischer.com](webdev@kentarofischer.com) &nbsp;| &nbsp; [github.com/kfwebdev](http://github.com/kfwebdev)&nbsp; |&nbsp; [download pdf](https://github.com/kfwebdev/resume/raw/master/kentaroFischerResume.pdf)
 
 ### Projects
+__Bigcommerce.com__ : [bigcommerce.com](http://www.bigcommerce.com)
+* Estimate, develop & test new features for control panel including drag and drop dashboard, interapp communication, onboarding flow, and more.
+* Worked on team and individual projects to deliver secure, fast, product solutions and improve usability, security and customer satisfaction.
+* Identified and resolved complex challenges in legacy code base improving security and usability resulting in great customer conversion and retention.
 
 __Epsilon.com__ : [epsilon.com](http://www.epsilon.com)
 * Consulted and developed website redesign components for delivery to Adobe Experience Manager integration.
@@ -32,8 +36,11 @@ __Open Source__
 
 ### Experience
 
-__Epsilon__, San Francisco, CA &nbsp;:&nbsp; *Front End Developer* &nbsp;:&nbsp; __2011-Present__    
-  Front End Developer role rapidly advancing to Senior responsibilities in projects for clients such as Apple, Intel, Activision and many more. Regular collaboration with Project Managers, Designers and Clients in small and large teams to achieve project goals within established time lines.
+__Bigcommerce__, San Francisco, CA &nbsp;:&nbsp; *Front End Developer II* &nbsp;:&nbsp; __2016-Present__    
+  Front end role estimating, developing, testing new functionality for the Bigcommerce online platform utilizing AngularJS, Sass and PHP. Key accomplishments include solving mobile web functionality & compatibility, new feature development from design to live product, cross platform testing, as well as learning from and mentoring team mates.
+
+__Epsilon__, San Francisco, CA &nbsp;:&nbsp; *Front End Developer* &nbsp;:&nbsp; __2011-2016__    
+  Front End Developer with scoping, development, testing responsibilities for clients including Apple, Intel, Activision and more. Regular collaboration with Project Managers, Designers and Clients in small and large teams to achieve project goals within established timeframes.
 
 __KF Web Development__, San Francisco, CA &nbsp;:&nbsp; *Principal* &nbsp;:&nbsp; __2009-2011__  
   Full service consultation and web development for San Francisco bay area businesses and organizations. Provided WordPress solutions within budget and client's time lines. Projects ranging from live web video streaming events to eCommerce stores and organization websites.
