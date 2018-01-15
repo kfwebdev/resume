@@ -1,28 +1,52 @@
 # Kentaro Fischer  
-
 > __Front End Engineer__  
-[webdev@kentarofischer.com](webdev@kentarofischer.com) &nbsp;| &nbsp; [github.com/kfwebdev](http://github.com/kfwebdev)&nbsp; |&nbsp; [download pdf](https://github.com/kfwebdev/resume/raw/master/kentaroFischerResume.pdf)
+Email: [webdev@kentarofischer.com](webdev@kentarofischer.com) &nbsp;:&nbsp; Github: [github.com/kfwebdev](http://github.com/kfwebdev) &nbsp;:&nbsp; Resume: [download pdf](https://github.com/kfwebdev/resume/raw/master/kentaroFischerResume.pdf)
 
-### Projects
-__Bigcommerce.com__ : [bigcommerce.com](http://www.bigcommerce.com)
-* Scope, develop & test new features for control panel including drag and drop dashboard, interapp communication, onboarding flow, and more.
-* Work on team and individual projects to deliver secure, fast, product solutions and improve usability, security and customer satisfaction.
-* Identify and resolve complex challenges in legacy code base improving security and usability resulting in greater customer conversion and retention.
+### Experience  
 
-__Epsilon.com__ : [epsilon.com](http://www.epsilon.com)
+2016-Present &nbsp;:&nbsp; __BigCommerce__ &nbsp;:&nbsp; *Front End Developer II* &nbsp;:&nbsp; *Tech Stack:* AngularJS, jQuery, Backbone, Sass, PHP, Gulp, Grunt, Git, Jira, Agile  
+
+* Build new modular components with AngularJS microapps to consume PHP REST APIs.
+* Identify and solve complex security challenges in legacy code base resulting in achieving PCI compliance and significant security improvements.
+* Improve internal CSS and JavaScript tools including Pattern Lab for fast SASS component styling and reusable AngularJS microapp template.
+* Develop CSS and JavaScript to realize responsive designs across desktop and mobile platforms using mobile and tablet devices and Browserstack.
+
+2011-2016 &nbsp;:&nbsp; __Epsilon__ &nbsp;:&nbsp; *Front End Developer* &nbsp;:&nbsp; *Tech Stack:* AngularJS, ReactJS, jQuery, Sass, Gulp, Grunt, Git, Jira
+
 * Consulted and developed website redesign components for delivery to Adobe Experience Manager integration.
-* Recommended project scaffold according to requirements utilizing Gulp, LibSass, and fileInclude for templating.
-* Collaborated with team in Bangalore, India with AEM integration. Deployed instance will serve over 600,000 visitors per month.
+* Specified project scaffold according to requirements utilizing Gulp, LibSass, and fileInclude for templating.
+* Collaborated with team in Bangalore, India with AEM integration. Deployed instance that serves over 600,000 visitors per month.
+
+2009-2011 &nbsp;:&nbsp; __KF Web Development__ &nbsp;:&nbsp; *Principal* &nbsp;:&nbsp; *Tech Stack:* WordPress, JavaScript, CSS, HTML5, PHP
+
+* Provided full service consultation and web development for San Francisco bay area businesses and organizations.
+* Determined WordPress solutions within budget and client's time lines. 
+* Managed projects ranging from live web video streaming events to eCommerce stores to organization websites.
+
+2007-2009 &nbsp;:&nbsp; __Entercom Communications__ &nbsp;:&nbsp; *Web Programmer* &nbsp;:&nbsp; *Tech Stack:* JavaScript, CSS, PHP
+
+* Collaborated with Web Director to maintain web sites for 96.5 KOIT, 102.1 KDFC and 95.7 KBWF (3 Top 10 Stations in #4 Market in the country). 
+* KDFC was voted “Best Digital Content” across 250 Entercom radio websites nationwide in April of 2008 . 
+* Developed custom content for station promotions and designed display ads.
+
+------
+
+### Projects (Examples of Work)
+
+__BigCommerce Control Panel__ : [bigcommerce.com](http://bigcommerce.com)
+* Built drag & drop configurable dashboard analytics, preferences. Avalara tax microapp and Google email configuration settings.
+* Improved postMessage support for inter-app communication.
+* Added Volution, Magento and Shopify to onboarding flow.
 
 __ADR Bank of New York Mellon__ : [adrbnymellon.com](http://www.adrbnymellon.com)  
 * Developed services, controllers, filters and directives to consume REST API with AngularJS, Angular UI Bootstrap, and Moment.js.
 * Implemented HTML/JS/Sass components based on design document, Photoshop comps and Jira for task tracking.
-* Front end resources deployed to Crown Peak CMS and accessed by more than 15,000 visitors every month.
+* Deployed Front end resources to Crown Peak CMS. Accessed by more than 15,000 visitors every month.
 
 __Cisco Learning Network__ : [learningnetwork.cisco.com](http://learningnetwork.cisco.com)  
-* Completed redesign of Cisco's Learning Network community which receives over 1.2 million visitors every month.
-* Involved end to end from initial design estimates to code development and deployment to Jive Software's Java based environment.
-* Implemented custom jQuery plugins for layout, carousel gallery, image slider, and other reusable components with documentation for client's reference.
+* Completed redesign of Cisco's Learning Network community that receives over 1.2 million visitors every month.
+* Provided guidance end-to-end from initial design estimates to code development and deployment to Java based Jive Software environment.
+* Created custom jQuery plugins for layout, carousel gallery, image slider, and other reusable components. Documented implementation steps for client reference.
 
 __Delta Uplift__ : [deltauplift.com](http://www.deltauplift.com)  
 * Developed responsive dashboard for credit card portal accessed by 88,000 Delta employees.
@@ -33,22 +57,6 @@ __Open Source__
 * __Audio Tournament__ : WordPress plugin for online audio competition community. Plugin features scheduled competitions with drag & drop voting, calculation and results generation. &nbsp; [audiotournament.com](http://audiotournament.com)  
 
 ------
-
-### Experience
-
-__Bigcommerce__, San Francisco, CA &nbsp;:&nbsp; *Front End Developer II* &nbsp;:&nbsp; __2016-Present__    
-  Front end role estimating, developing, testing new functionality for the Bigcommerce online platform utilizing AngularJS, Sass and PHP. Key accomplishments include solving mobile web functionality & compatibility, new feature development from design to live product, cross platform testing, learning from and mentoring team mates.
-
-__Epsilon__, San Francisco, CA &nbsp;:&nbsp; *Front End Developer* &nbsp;:&nbsp; __2011-2016__    
-  Front End Developer with scoping, development, testing responsibilities for clients including Apple, Intel, Activision and more. Regular collaboration with Project Managers, Designers and Clients in small and large teams to achieve project goals within established timeframes.
-
-__KF Web Development__, San Francisco, CA &nbsp;:&nbsp; *Principal* &nbsp;:&nbsp; __2009-2011__  
-  Full service consultation and web development for San Francisco bay area businesses and organizations. Provided WordPress solutions within budget and client's time lines. Projects ranging from live web video streaming events to eCommerce stores and organization websites.
-
-__Entercom Communications__, San Francisco, CA &nbsp;:&nbsp; *Web Programmer* &nbsp;:&nbsp; __2007-2009__  
-  Worked alongside Entercom Web Director to maintain web sites for 96.5 KOIT, 102.1 KDFC and 95.7 KBWF (3 Top 10 Stations in #4 Market in the country). KDFC was voted “Best Digital Content” across 250 Entercom radio websites nationwide in April of 2008 . Developed custom content for station promotions and designed display ads.
-
--------
 
 ### Skills
 
