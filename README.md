@@ -4,7 +4,7 @@ Email: [webdev@kentarofischer.com](webdev@kentarofischer.com) &nbsp;:&nbsp; Gith
 
 ### Experience  
 
-2016-Present &nbsp;:&nbsp; __BigCommerce__ &nbsp;:&nbsp; *Front End Developer II* &nbsp;:&nbsp; *Tech Stack:* AngularJS, jQuery, Backbone, Sass, PHP, Gulp, Grunt, Git, Jira, Agile  
+2016-2019 &nbsp;:&nbsp; __BigCommerce__ &nbsp;:&nbsp; *Front End Developer II* &nbsp;:&nbsp; *Tech Stack:* AngularJS, jQuery, Backbone, Sass, PHP, Gulp, Grunt, Git, Jira, Agile  
 
 * Build new modular components with AngularJS microapps to consume PHP REST APIs.
 * Identify and solve complex security challenges in legacy code base resulting in achieving PCI compliance and significant security improvements.
