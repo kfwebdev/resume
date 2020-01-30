@@ -9,7 +9,6 @@ Email: [webdev@kentarofischer.com](webdev@kentarofischer.com) &nbsp;:&nbsp; Gith
 * Responsible for end to end tech stack to satisfy requirements of MVP.
 * Collaborate with lead designer to deliver working components from Figma designs.
 * Resolve bugs and blockers with lead QA to deliver MVP on schedule.
-* Attend events to evangelize project and acquire user feedback.
 
 2016-2019 &nbsp;:&nbsp; __BigCommerce__, *Front End Developer II* &nbsp;:&nbsp; *Tech Stack:* AngularJS, React, jQuery, Backbone, Sass, PHP, Gulp, Grunt, Git, Jira, Agile
 
@@ -44,7 +43,7 @@ Email: [webdev@kentarofischer.com](webdev@kentarofischer.com) &nbsp;:&nbsp; Gith
 __Boba Star (Progressive Web App)__ : [bobastar.app](https://bobastar.app)
 * Design GraphQL tables & queries for Yelp style shop search app.
 * Setup Lambda trigger to sync data between DynamoDB and Elasticsearch.
-* Develop React reusable components utilizing Google Maps, Geolocation, and AWS Services.
+* Develop reusable React components utilizing Google Maps, Geolocation, and AWS Services.
 * Follow Agile processes using Pivotal Tracker to deliver MVP on schedule.
 
 __BigCommerce Control Panel__ : [bigcommerce.com](http://bigcommerce.com)
@@ -74,8 +73,8 @@ __Open Source__
 
 ## Skills
 
-Code : Vanilla JavaScript, AngularJS, React, jQuery, jQuery UI & Mobile, HTML, CSS2, CSS3, Sass, PHP, MySQL<br/>
-Software : Git, Subversion, Jira, VSCode, Atom, Sublime Text, WordPress, Figma, Adobe Photoshop, Basecamp, Slack, Windows & Mac OSX
+Code : JavaScript, React, AngularJS, jQuery, HTML, CSS2, CSS3, Sass, PHP, MySQL<br/>
+Software : Git, Subversion, Jira, VS Code, Atom, Sublime Text, WordPress, Figma, Adobe Photoshop, Basecamp, Slack, Windows & Mac OS
 
 ------
 
