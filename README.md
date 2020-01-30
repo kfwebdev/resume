@@ -84,3 +84,7 @@ Software : Git, Subversion, Jira, VS Code, Atom, Sublime Text, WordPress, Figma,
 *Toastmasters International* : Completed Competent Communicator Program : __2010__
 *Academy X* : Microsoft Office 2007 Training : __2008__
 *Sierra College, Rocklin* : Introduction to Unix : __2006__
+
+<style type="text/css">
+    body { font-size: 11px; }
+</style>
