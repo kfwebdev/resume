@@ -86,5 +86,7 @@ Software : Git, Subversion, Jira, VS Code, Atom, Sublime Text, WordPress, Figma,
 *Sierra College, Rocklin* : Introduction to Unix : __2006__
 
 <style type="text/css">
-    body { font-size: 11px; }
+    body {
+        line-height: 18px;
+    }
 </style>
