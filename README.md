@@ -41,7 +41,7 @@ Email: [webdev@kentarofischer.com](webdev@kentarofischer.com) &nbsp;:&nbsp; Gith
 ### Projects / Examples of Work
 
 __Boba Star (Progressive Web App)__ : [bobastar.app](https://bobastar.app)
-* Design GraphQL tables & queries for Yelp style shop search app.
+* Design GraphQL tables & queries for Yelp style drink search app.
 * Setup Lambda trigger to sync data between DynamoDB and Elasticsearch.
 * Develop reusable React components utilizing Google Maps, Geolocation, and AWS Services.
 * Follow Agile processes using Pivotal Tracker to deliver MVP on schedule.
