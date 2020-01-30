@@ -2,7 +2,7 @@
 > __Front End Engineer__
 Email: [webdev@kentarofischer.com](webdev@kentarofischer.com) &nbsp;:&nbsp; Github: [github.com/kfwebdev](http://github.com/kfwebdev) &nbsp;:&nbsp; Resume: [download pdf](https://github.com/kfwebdev/resume/raw/master/kentaroFischerResume.pdf)
 
-## Experience
+### Experience
 
 2019-2020 &nbsp;:&nbsp; __Boba Star__, *Founder, Full Stack Engineer* &nbsp;:&nbsp; *Tech Stack:* AWS AppSync, DynamoDB, Elasticsearch, Lambda, S3, React, Sass, Git, GraphQL, Agile
 
@@ -38,7 +38,7 @@ Email: [webdev@kentarofischer.com](webdev@kentarofischer.com) &nbsp;:&nbsp; Gith
 
 ------
 
-## Projects / Examples of Work
+### Projects / Examples of Work
 
 __Boba Star (Progressive Web App)__ : [bobastar.app](https://bobastar.app)
 * Design GraphQL tables & queries for Yelp style shop search app.
@@ -71,14 +71,14 @@ __Open Source__
 
 ------
 
-## Skills
+### Skills
 
 Code : JavaScript, React, AngularJS, jQuery, HTML, CSS2, CSS3, Sass, PHP, MySQL<br/>
 Software : Git, Subversion, Jira, VS Code, Atom, Sublime Text, WordPress, Figma, Adobe Photoshop, Basecamp, Slack, Windows & Mac OS
 
 ------
 
-## Education & Organizations
+### Education & Organizations
 
 *NewCircle* : Javascript Training & Angular JS Training : __2015__
 *Toastmasters International* : Completed Competent Communicator Program : __2010__
