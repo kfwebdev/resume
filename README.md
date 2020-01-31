@@ -4,13 +4,13 @@ Email: [webdev@kentarofischer.com](webdev@kentarofischer.com) &nbsp;:&nbsp; Gith
 
 ### Experience
 
-2019-2020 &nbsp;:&nbsp; __Boba Star__, *Founder, Full Stack Engineer* &nbsp;:&nbsp; *Tech Stack:* AWS AppSync, DynamoDB, Elasticsearch, Lambda, S3, React, Sass, Git, GraphQL, Agile
+2019-2020 &nbsp;__Boba Star__, *Founder, Full Stack Engineer* &nbsp;:&nbsp; *Tech Stack:* AWS AppSync, DynamoDB, Elasticsearch, Lambda, S3, React, Sass, Git, GraphQL, Agile
 
-* Responsible for end to end tech stack to satisfy requirements of MVP.
-* Collaborate with lead designer to deliver working components from Figma designs.
-* Resolve bugs and blockers with lead QA to deliver MVP on schedule.
+* Responsible for end to end tech stack to meet requirements of MVP.
+* Collaborate with lead Designer to iterate on user experience & flow using Figma.
+* Resolve all blocking bugs with QA to deliver MVP on schedule.
 
-2016-2019 &nbsp;:&nbsp; __BigCommerce__, *Front End Developer II* &nbsp;:&nbsp; *Tech Stack:* AngularJS, React, jQuery, Backbone, Sass, PHP, Gulp, Grunt, Git, Jira, Agile
+2016-2019 &nbsp;__BigCommerce__, *Front End Developer II* &nbsp;:&nbsp; *Tech Stack:* AngularJS, React, jQuery, Backbone, Sass, PHP, Gulp, Grunt, Git, Jira, Agile
 
 * Collaborate with designers and stakeholders to build reusable components for company library using React, Storybook and Sass.
 * Build new dashboard features as modular components with AngularJS to consume PHP REST APIs.
@@ -18,19 +18,19 @@ Email: [webdev@kentarofischer.com](webdev@kentarofischer.com) &nbsp;:&nbsp; Gith
 * Improve internal CSS and JavaScript tools including Pattern Lab for fast SASS component styling. Modernized company AngularJS app template.
 * Develop responsive web apps across desktop and mobile platforms using mobile and tablet devices and Browserstack.
 
-2011-2016 &nbsp;:&nbsp; __Epsilon__, *Front End Developer* &nbsp;:&nbsp; *Tech Stack:* AngularJS, React, jQuery, Sass, Gulp, Grunt, Git, Jira
+2011-2016 &nbsp;__Epsilon__, *Front End Developer* &nbsp;:&nbsp; *Tech Stack:* AngularJS, React, jQuery, Sass, Gulp, Grunt, Git, Jira
 
 * Consulted and developed website redesign components for delivery to Adobe Experience Manager integration.
 * Specified project scaffold according to requirements utilizing Gulp, LibSass, and fileInclude for templating.
 * Collaborated with team in Bangalore, India with AEM integration. Deployed instance that serves over 600,000 visitors per month.
 
-2009-2011 &nbsp;:&nbsp; __KF Web Development__, *Principal* &nbsp;:&nbsp; *Tech Stack:* WordPress, JavaScript, CSS, HTML5, PHP
+2009-2011 &nbsp;__KF Web Development__, *Principal* &nbsp;:&nbsp; *Tech Stack:* WordPress, JavaScript, CSS, HTML5, PHP
 
 * Provided full service consultation and web development for San Francisco bay area businesses and organizations.
 * Determined WordPress solutions within budget and client's time lines.
 * Managed projects ranging from live web video streaming events to eCommerce stores to organization websites.
 
-2007-2009 &nbsp;:&nbsp; __Entercom Communications__, *Web Programmer* &nbsp;:&nbsp; *Tech Stack:* JavaScript, CSS, PHP
+2007-2009 &nbsp;__Entercom Communications__, *Web Programmer* &nbsp;:&nbsp; *Tech Stack:* JavaScript, CSS, PHP
 
 * Collaborated with Web Director to maintain web sites for 96.5 KOIT, 102.1 KDFC and 95.7 KBWF (3 Top 10 Stations in #4 Market in the country).
 * KDFC was voted “Best Digital Content” across 250 Entercom radio websites nationwide in April of 2008 .
