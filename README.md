@@ -1,89 +1,64 @@
 # Kentaro Fischer
+
 > __Front End Engineer__
-Email: [webdev@kentarofischer.com](webdev@kentarofischer.com) &nbsp;:&nbsp; Github: [github.com/kfwebdev](http://github.com/kfwebdev) &nbsp;:&nbsp; Resume: [download pdf](https://github.com/kfwebdev/resume/raw/master/kentaroFischerResume.pdf)
 
-### Experience
+[Kentaro@KentaroFischer.com](kentaro@kentarofischer.com) &nbsp;|&nbsp; [KentaroFischer.com](http://kentarofischer.com) &nbsp;|&nbsp; [GitHub](https://github.com/kfwebdev) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/kentarofischer)
 
-2019-2020 &nbsp;__Boba Star__, *Founder, Full Stack Engineer* &nbsp;:&nbsp; *Tech Stack:* AWS AppSync, DynamoDB, Elasticsearch, Lambda, S3, React, Sass, Git, GraphQL, Agile
+Kentaro Fischer is a Front End Engineer who has worked with startups and Fortune 500 companies for over 8 years. His web applications regularly reach millions of users around the world.
+<br /><br />
 
-* Responsible for end to end tech stack to meet requirements of MVP.
-* Collaborate with lead Designer to iterate on user experience & flow using Figma.
-* Resolve all blocking bugs with QA to deliver MVP on schedule.
-
-2016-2019 &nbsp;__BigCommerce__, *Front End Developer II* &nbsp;:&nbsp; *Tech Stack:* AngularJS, React, jQuery, Backbone, Sass, PHP, Gulp, Grunt, Git, Jira, Agile
-
-* Collaborate with designers and stakeholders to build reusable components for company library using React, Storybook and Sass.
-* Build new dashboard features as modular components with AngularJS to consume PHP REST APIs.
-* Solve security challenges in legacy JavaScript & PHP code base resulting in achieving and maintaining PCI compliance as well as significant security improvements.
-* Improve internal CSS and JavaScript tools including Pattern Lab for fast SASS component styling. Modernized company AngularJS app template.
-* Develop responsive web apps across desktop and mobile platforms using mobile and tablet devices and Browserstack.
-
-2011-2016 &nbsp;__Epsilon__, *Front End Developer* &nbsp;:&nbsp; *Tech Stack:* AngularJS, React, jQuery, Sass, Gulp, Grunt, Git, Jira
-
-* Consulted and developed website redesign components for delivery to Adobe Experience Manager integration.
-* Specified project scaffold according to requirements utilizing Gulp, LibSass, and fileInclude for templating.
-* Collaborated with team in Bangalore, India with AEM integration. Deployed instance that serves over 600,000 visitors per month.
-
-2009-2011 &nbsp;__KF Web Development__, *Principal* &nbsp;:&nbsp; *Tech Stack:* WordPress, JavaScript, CSS, HTML5, PHP
-
-* Provided full service consultation and web development for San Francisco bay area businesses and organizations.
-* Determined WordPress solutions within budget and client's time lines.
-* Managed projects ranging from live web video streaming events to eCommerce stores to organization websites.
-
-2007-2009 &nbsp;__Entercom Communications__, *Web Programmer* &nbsp;:&nbsp; *Tech Stack:* JavaScript, CSS, PHP
-
-* Collaborated with Web Director to maintain web sites for 96.5 KOIT, 102.1 KDFC and 95.7 KBWF (3 Top 10 Stations in #4 Market in the country).
-* KDFC was voted “Best Digital Content” across 250 Entercom radio websites nationwide in April of 2008 .
-* Developed custom content for station promotions and designed display ads.
-
+## Experience
 ------
 
-### Projects / Examples of Work
+&nbsp;__Boba Star__, *Full Stack Engineer* : 2019-2020
 
-__Boba Star (Progressive Web App)__ : [bobastar.app](https://bobastar.app)
-* Design GraphQL tables & queries for Yelp style drink search app.
-* Setup Lambda trigger to sync data between DynamoDB and Elasticsearch.
 * Develop reusable React components utilizing Google Maps, Geolocation, and AWS Services.
+* Design GraphQL tables & queries for Yelp style drink search app.
+* Setup Lambda events to sync data between DynamoDB and Elasticsearch.
 * Follow Agile processes using Pivotal Tracker to deliver MVP on schedule.
 
-__BigCommerce Control Panel__ : [bigcommerce.com](http://bigcommerce.com)
-* Developed drag & drop configurable dashboard for analytics and preferences panels. Avalara tax app and Google email configuration settings.
-* Improved postMessage support for AngularJS app inter-communication.
-* Added Volution, Magento and Shopify merchant portals to onboarding flow.
+&nbsp;__BigCommerce__, *Front End Developer II* : 2016-2019
 
-__ADR Bank of New York Mellon__ : [adrbnymellon.com](http://www.adrbnymellon.com)
-* Developed services, controllers, filters and directives to consume REST API with AngularJS, Angular UI Bootstrap, and Moment.js.
-* Implemented HTML/JS/Sass components based on design document, Photoshop comps and Jira for task tracking.
-* Deployed Front end resources to Crown Peak CMS. Accessed by more than 15,000 visitors every month.
+* Rebuild onboarding experience resulting in over 5% increase in trial to paid conversions.
+* Collaborate with designers and stakeholders to build reusable components for company library using React, Storybook and Sass.
+* Build new dashboard features as modular components to consume REST APIs.
+* Solve security challenges in legacy JavaScript & PHP code base resulting in achieving and maintaining PCI compliance as well as significant security improvements.
+* Improve internal CSS and JavaScript tools including Pattern Lab for fast SASS component styling. Modernized company AngularJS app template.
 
-__Cisco Learning Network__ : [learningnetwork.cisco.com](http://learningnetwork.cisco.com)
-* Completed redesign of Cisco's Learning Network community that receives over 1.2 million visitors every month.
-* Provided guidance end-to-end from initial design estimates to code development and deployment to Java based Jive Software environment.
-* Created custom jQuery plugins for layout, carousel gallery, image slider, and other reusable components. Documented implementation steps for client reference.
+&nbsp;__Epsilon__, *Front End Developer* : 2011-2016
 
-__Delta Uplift__ : [deltauplift.com](http://www.deltauplift.com)
-* Developed responsive dashboard for credit card portal accessed by 88,000 Delta employees.
-* Built page layouts from PSD comps using Sass, jQuery, Google Charts, and various jQuery plugins.
+* Complete redesign of Cisco's Learning Network community that receives over 1.2 million visitors every month.
+* Collaborate with team in Bangalore, India to Deployed AEM instance that serves over 600,000 visitors per month.
+* Built responsive dashboard for Delta Uplift credit card portal accessed by 88,000 Delta employees.
+* Deployed Front end dashboard for ADR Bank of New York Mellon. Accessed by more than 15,000 visitors every month.
 
-__Open Source__
-* __WP Editor Comments Plus__ : WordPress plugin for enhancing WordPress comments with TinyMCE. Developed using Webpack and React. &nbsp;  [wordpress.org/plugins/wp-editor-comments-plus](https://wordpress.org/plugins/wp-editor-comments-plus/)
-* __Audio Tournament__ : WordPress plugin for online audio competition community. Plugin features scheduled competitions with drag & drop voting, calculation and results generation. &nbsp; [audiotournament.com](http://audiotournament.com)
+&nbsp;__KF Web Development__, *Principal* : 2009-2011
 
+* Provide full service consultation and web development for San Francisco bay area businesses and organizations.
+* Determine architecture solutions considering budget and client's time lines.
+* Manage live web video streaming events
+<br /><br />
+
+## Skills
 ------
 
-### Skills
+* JavaScript<br />
+* React<br />
+* TypeScript<br />
+* Node.js<br />
+* AngularJS<br />
+* HTML<br />
+* CSS<br />
+* Git<br />
+* Jira<br />
+<br />
 
-Code : JavaScript, React, AngularJS, jQuery, HTML, CSS2, CSS3, Sass, PHP, MySQL<br/>
-Software : Git, Subversion, Jira, VS Code, Atom, Sublime Text, WordPress, Figma, Adobe Photoshop, Basecamp, Slack, Windows & Mac OS
-
+## Education & Organizations
 ------
 
-### Education & Organizations
-
-*NewCircle* : Javascript Training & Angular JS Training : __2015__
-*Toastmasters International* : Completed Competent Communicator Program : __2010__
-*Academy X* : Microsoft Office 2007 Training : __2008__
-*Sierra College, Rocklin* : Introduction to Unix : __2006__
+* NewCircle : Javascript Training & Angular JS Training : __2015__<br/>
+* Toastmasters International : Completed Competent Communicator Program : __2010__<br/>
+* Sierra College, Rocklin : Introduction to Unix : __2006__<br/>
 
 <style type="text/css">
     body {
