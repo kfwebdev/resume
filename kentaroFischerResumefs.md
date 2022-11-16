@@ -1,6 +1,6 @@
 # Kentaro Fischer
 
-> __Front End Engineer__
+> __Full Stack Engineer__
 
 [Linkedin.com/in/kentarofischer](https://linkedin.com/in/kentarofischer) &nbsp;|&nbsp; [Kentaro@KentaroFischer.com](kentaro@kentarofischer.com) &nbsp;|&nbsp; [Github.com/kfwebdev](https://github.com/kfwebdev) &nbsp;|&nbsp; [KentaroFischer.com](http://kentarofischer.com)
 
@@ -8,7 +8,7 @@
 ------
 
 * JavaScript, TypeScript, React, Framer Motion, Radix UI, Styled Components, Bootstrap, jQuery, Lodash, Moment, Browser Extensions, HTML, CSS, SCSS<br />
-* WordPress, MySQL, PHP, Node.js, Express, MySQL, AWS AppSync, Lambda, DynamoDB, Elasticsearch, Figma, FFmpeg, Git, Linear, Jira<br />
+* WordPress, Divi, MySQL, PHP, Node.js, Express, MySQL, AWS AppSync, Lambda, DynamoDB, Elasticsearch, Figma, FFmpeg, Git, Linear, Jira<br />
 
 ## Experience
 ------
