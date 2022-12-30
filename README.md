@@ -13,37 +13,37 @@
 ## Experience
 ------
 
-&nbsp;__Threads__, *Software Engineer* : 2020-Current
+&nbsp;__Threads__, *Software Engineer* : 2020-2022
 
-* Scope and develop full stack (data model, realtime updates, backend API and frontend UI) Saved page feature enabling users to bookmark site content.
-* Lead development of global keyboard shortcut system enabling engineering team to extend functionality and add system shortcuts.
-* Improve browser experience by discovering crippling Chat performance bug and developing solution.
-* Develop mobile responsive layout for main product triage view.
-* Add configurable background gradient feature for writing composer to improve user delight.
-* Achieved WCAG 2.1 compliance by leading Accessibility compliance sitewide audit and development.
+* Developed a full stack feature that allows users to bookmark site content improving user experience. Scope included data modeling, realtime updates, backend API, and frontend UI.
+* Led the development of a global keyboard shortcut system that allows the engineering team to extend functionality and add system shortcuts.
+* Improved the browser experience by discovering a crippling Chat performance bug and developing a solution.
+* Implemented a mobile responsive layout for the main product triage view.
+* Added a configurable background gradient feature for the writing composer to improve user delight.
+* Led an accessibility compliance sitewide audit and code update, resulting in WCAG 2.1 compliance.
 
 &nbsp;__Boba Star__, *Full Stack Engineer* : 2019-2020
 
-* Develop reusable React components utilizing Google Maps, Geolocation, and AWS.
-* Design GraphQL tables & queries for Yelp style drink search app.
-* Setup Lambda events to sync data between DynamoDB and Elasticsearch.
-* Follow Agile processes using Pivotal Tracker to deliver MVP on schedule.
+* Developed reusable React components utilizing Google Maps, Geolocation, and AWS.
+* Designed GraphQL tables and queries for a Yelp-style drink search app.
+* Set up Lambda events to sync data between DynamoDB and Elasticsearch.
+* Followed Agile processes using Pivotal Tracker to deliver an MVP on schedule.
 
 &nbsp;__BigCommerce__, *Front End Developer II* : 2016-2019
 
-* Rebuild onboarding experience resulting in over 5% increase in trial to paid conversions.
-* Collaborate with designers and stakeholders to build reusable components for company library using React, Storybook and Sass.
-* Build new dashboard features as modular components to consume REST APIs.
-* Solve security challenges in legacy JavaScript & PHP code base resulting in achieving and maintaining PCI compliance as well as significant security improvements.
-* Improve internal CSS and JavaScript tools including Pattern Lab for fast SASS component styling. Modernized company AngularJS app template.
+* Rebuilt the new user onboarding experience, resulting in a over 5% increase in trial to paid conversions.
+* Collaborated with designers and stakeholders to build reusable components for the company library using React, Storybook, and Sass.
+* Built new dashboard features as modular components to consume REST APIs.
+* Solved security challenges in the legacy JavaScript and PHP code base, resulting in achieving and maintaining PCI compliance as well as significant security improvements.
+* Improved internal CSS and JavaScript tools, including Pattern Lab for fast SASS component styling.
+* Modernized the company's AngularJS app template.
 
 &nbsp;__Epsilon__, *Front End Developer* : 2011-2016
 
-* Complete redesign of Cisco's Learning Network community that receives over 1.2 million visitors every month.
-* Collaborate with team in Bangalore, India to Deployed AEM instance that serves over 600,000 visitors per month.
-* Built responsive dashboard for Delta Uplift credit card portal accessed by 88,000 Delta employees.
-* Deployed Front end dashboard for ADR Bank of New York Mellon. Accessed by more than 15,000 visitors every month.
-<br /><br />
+* Completed a redesign of Cisco's Learning Network community that receives over 1.2 million visitors every month.
+* Collaborated with a team in Bangalore, India to deploy an AEM instance that serves over 600,000 visitors per month.
+* Built a responsive dashboard for the Delta Uplift credit card portal, accessed by 88,000 Delta employees.
+* Developed multiple stock statistic dashboards for ADR Bank of New York Mellon, accessed by more than 15,000 visitors every month.
 
 ## Education & Organizations
 ------
