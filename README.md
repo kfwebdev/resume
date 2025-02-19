@@ -8,8 +8,8 @@
 
 ---
 
-- JavaScript, TypeScript, React, Framer Motion, Radix UI, Styled Components, jQuery, Lodash, Moment, Browser Extensions, HTML, CSS, SCSS<br />
-- Node.js, Express, MySQL, AWS AppSync, Lambda, DynamoDB, Elasticsearch, Figma, FFmpeg, Git, Linear, Jira<br />
+- JavaScript, TypeScript, React, Storybook, Tailwind CSS, Radix UI, Styled Components, jQuery, HTML, CSS, SCSS<br />
+- Node.js, Express, Figma, Git, Linear, Jira, Azure DevOps<br />
 
 ## Experience
 
@@ -17,8 +17,10 @@
 
 &nbsp;**Energage**, _Senior Software Engineer_ : 2023-Present
 
-- Developed components for the company's internal component library using React, Storybook, and Tailwind CSS.
-- Led upgrades of build tools including from Yarn to Pnpm, Storybook 6 to 8, Tailwindcss 1 to 3.
+- Developed Navigation and Alert components for the company's component library using React, Storybook, and Tailwind CSS enhancing Accessibility and eliminating technical debt.
+- Led build tool migrations across codebase for Yarn to Pnpm, Create React App to RSBuild, Storybook 6 to 8, Tailwindcss 1 to 3 resulting in 50% faster build times and a significantly faster development experience for all frontend teams.
+- Led frontend development for redesign of Media Kit web portal, reducing UI friction for users downloading marketing assets and increasing user engagement by 30%.
+- Migrated primary user dashboard project to TypeScript, improving code maintainability and developer experience.
 
 &nbsp;**Threads**, _Software Engineer_ : 2020-2022
 
