@@ -8,7 +8,7 @@
 
 ---
 
-- JavaScript, TypeScript, React, Storybook, Tailwind CSS, Radix UI, Styled Components, jQuery, HTML, CSS, SCSS<br />
+- JavaScript, TypeScript, React, Storybook, Tailwind CSS, W3C Accessibility, Radix UI, Styled Components, jQuery, HTML, CSS, SCSS<br />
 - Node.js, Express, Figma, Git, Linear, Jira, Azure DevOps<br />
 
 ## Experience
