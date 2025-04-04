@@ -8,14 +8,14 @@
 
 ---
 
-- JavaScript, TypeScript, React, Storybook, Tailwind CSS, W3C Accessibility, Radix UI, Styled Components, jQuery, HTML, CSS, SCSS<br />
+- JavaScript, TypeScript, React, Storybook, Tailwind CSS, W3C Accessibility, Radix UI, Styled Components, HTML, CSS, Sass<br />
 - Node.js, Express, Figma, Git, Linear, Jira, Azure DevOps<br />
 
 ## Experience
 
 ---
 
-&nbsp;**Energage**, _Senior Software Engineer_ : 2023-Present
+&nbsp;**Energage**, _Senior Software Engineer_ : 2023-2025
 
 - Developed Navigation and Alert components for the company's component library using React, Storybook, and Tailwind CSS enhancing Accessibility and eliminating technical debt.
 - Led build tool migrations across codebase for Yarn to Pnpm, Create React App to RSBuild, Storybook 6 to 8, Tailwindcss 1 to 3 resulting in 50% faster build times and a significantly faster development experience for all frontend teams.
