@@ -8,51 +8,58 @@
 
 ---
 
-- JavaScript, TypeScript, React, Storybook, Tailwind CSS, W3C Accessibility, Radix UI, Styled Components, HTML, CSS, Sass<br />
-- Node.js, Express, Figma, Git, Linear, Jira, Azure DevOps<br />
+- JavaScript, TypeScript, React, Next.js, Tailwind CSS, Shadcn/UI, Storybook, W3C Accessibility, HTML, CSS<br />
+- Node.js, Express, MongoDB, Supabase, Zustand, Google Cloud Platform, Docker, Stripe, Backblaze B2, Figma, Git, Linear, Jira<br />
 
 ## Experience
 
 ---
-
-&nbsp;**Energage**, _Senior Software Engineer_ : 2023-2025
-
-- Developed Navigation and Alert components for the company's component library using React, Storybook, and Tailwind CSS enhancing Accessibility and eliminating technical debt.
-- Led build tool migrations across codebase for Yarn to Pnpm, Create React App to RSBuild, Storybook 6 to 8, Tailwindcss 1 to 3 resulting in 50% faster build times and a significantly faster development experience for all frontend teams.
-- Led frontend development for redesign of Media Kit web portal, reducing UI friction for users downloading marketing assets and increasing user engagement by 30%.
-- Migrated primary user dashboard project to TypeScript, improving code maintainability and developer experience.
-
-&nbsp;**Threads**, _Software Engineer_ : 2020-2022
-
-- Developed a full stack feature that allows users to bookmark site content improving user experience. Scope included data modeling, realtime updates, backend API, and frontend UI.
-- Led the development of a global keyboard shortcut system that allows the engineering team to extend functionality and add system shortcuts.
-- Improved the browser experience by discovering a crippling Chat performance bug and developing a solution.
-- Implemented a mobile responsive layout for the main product triage view.
-- Added a configurable background gradient feature for the writing composer to improve user delight.
-- Led an accessibility compliance sitewide audit and code update, resulting in WCAG 2.1 compliance.
-
-&nbsp;**Boba Star**, _Full Stack Engineer_ : 2019-2020
-
-- Developed reusable React components utilizing Google Maps, Geolocation, and AWS.
-- Designed GraphQL tables and queries for a Yelp-style drink search app.
-- Set up Lambda events to sync data between DynamoDB and Elasticsearch.
+&nbsp;**Conversations Export**, **Senior Software Engineer** : 2025-Present
+ 
+- Architected a scalable full-stack platform using **Next.js** and **TypeScript**, **reducing manual reporting labor by over 80%**.
+- Developed a high-performance UI using **Tailwind CSS** and **Shadcn/UI**, achieving **sub-100ms UI interactions** for real-time dashboard experience.
+- Orchestrated **Docker** and **Google Cloud Platform** to automate cloud infrastructure, **ensuring 100% environment parity** via automated CI/CD.
+- Engineered a resilient **Node.js** and **MongoDB** backend, **ensuring 99.9% data reliability** across thousands of record requests.
+- Implemented a data transformation pipeline featuring **PII redaction** to **improve automated redaction accuracy** for exported records.
+- Utilized flagship **AI coding agents** for development, **achieving a 40% increase in feature velocity** via agentic development.
+ 
+&nbsp;**Energage**, **Senior Software Engineer** : 2023-2025
+ 
+- Developed enterprise-scale **Navigation and Alert components**, **accelerating product delivery cycles** and ensuring sitewide accessibility compliance.
+- Led build tool migrations (**Pnpm**, **RSBuild**), **reducing build times by 50%** and improving developer ROI across all frontend teams.
+- Led the redesign of the **Media Kit portal**, **increasing user engagement by 30%** and reducing UI friction.
+- Migrated primary user dashboard to **TypeScript**, **improving long-term maintainability** and system reliability for mission-critical data.
+ 
+&nbsp;**Threads**, **Software Engineer** : 2020-2022
+ 
+- Developed a **full-stack bookmarking system** that **directly increased user content retention** and personalized platform engagement.
+- Led the engineering of a **global keyboard shortcut system**, **accelerating power-user workflows** and system accessibility.
+- Optimized platform performance by resolving a **critical chat rendering bug**, **improving real-time communication stability**.
+- Implemented a **mobile-responsive UI**, **expanding the platform's addressable user base** across mobile devices.
+- Led a comprehensive sitewide **accessibility audit**, **achieving WCAG 2.1 compliance** and mitigating legal risks.
+ 
+&nbsp;**Boba Star**, **Full Stack Engineer** : 2019-2020
+ 
+- Developed reusable **React components** utilizing Google Maps, Geolocation, and AWS.
+- Designed **GraphQL tables and queries** for a Yelp-style drink search app.
+- Set up **Lambda events** to sync data between DynamoDB and Elasticsearch.
 - Followed Agile processes using Pivotal Tracker to deliver an MVP on schedule.
 
-&nbsp;**BigCommerce**, _Front End Developer II_ : 2016-2019
-
-- Rebuilt the new user onboarding experience, resulting in a over 5% increase in trial to paid conversions.
-- Collaborated with designers and stakeholders to build reusable components for the company library using React, Storybook, and Sass.
-- Built new dashboard features as modular components to consume REST APIs.
-- Solved security challenges in the legacy JavaScript and PHP code base, resulting in achieving and maintaining PCI compliance as well as significant security improvements.
-- Improved internal CSS and JavaScript tools, including Pattern Lab for fast SASS component styling.
-- Modernized the company's AngularJS app template.
-
-&nbsp;**Epsilon**, _Front End Developer_ : 2011-2016
-
-- Completed a redesign of Cisco's Learning Network community that receives over 1.2 million visitors every month.
-- Collaborated with a team in Bangalore, India to deploy an AEM instance that serves over 600,000 visitors per month.
-- Built a responsive dashboard for the Delta Uplift credit card portal, accessed by 88,000 Delta employees.
-- Developed multiple stock statistic dashboards for ADR Bank of New York Mellon, accessed by more than 15,000 visitors every month.
+&nbsp;**BigCommerce**, **Front End Developer II** : 2016-2019
+ 
+- Rebuilt the **new user onboarding experience**, resulting in an **over 5% increase** in trial to paid conversions.
+- Collaborated with designers to build **reusable components** using **React**, Storybook, and Sass.
+- Built new dashboard features as **modular components** to consume REST APIs.
+- Solved **security challenges** in legacy code, achieving and maintaining **PCI compliance**.
+- Improved internal CSS and JavaScript tools for fast **SASS component styling**.
+- Modernized the company's **AngularJS app template**.
+ 
+&nbsp;**Epsilon**, **Front End Developer** : 2011-2016
+ 
+- Completed a **redesign of Cisco's Learning Network**, serving over **1.2 million monthly visitors**.
+- Collaborated with a global team to deploy an **AEM instance** serving **600,000 visitors per month**.
+- Built a **responsive dashboard** for the Delta Uplift portal, accessed by **88,000 employees**.
+- Developed multiple **stock statistic dashboards**, accessed by more than **15,000 monthly visitors**.
 
 ## Education & Organizations
 
