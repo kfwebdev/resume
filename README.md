@@ -8,7 +8,7 @@
 
 ---
 
-- Claude Code, Roo Code, VS Code, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Shadcn/UI, Storybook, W3C Accessibility, HTML, CSS<br />
+- VS Code, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Shadcn/UI, Storybook, W3C Accessibility, HTML, CSS<br />
 - Node.js, Express, MongoDB, Supabase, Zustand, Google Cloud Platform, Docker, Stripe, Backblaze B2, Figma, Git, Linear, Jira<br />
 
 ## Experience
@@ -21,7 +21,7 @@
 - Orchestrated **Docker** and **Google Cloud Platform** to automate cloud infrastructure, **ensuring 100% environment parity** via automated CI/CD.
 - Engineered a resilient **Node.js** and **MongoDB** backend, **ensuring 99.9% data reliability** across thousands of record requests.
 - Implemented a data transformation pipeline featuring **PII redaction** to **improve automated redaction accuracy** for exported records.
-- Utilized flagship **AI coding agents** for development, **achieving a 40% increase in velocity** via agentic development.
+- Integrated a robust authentication and state management architecture using **Supabase** and **Zustand**, **ensuring secure cross-origin sessions** and optimized rendering performance.
  
 &nbsp;**Energage**, **Senior Software Engineer** : 2023-2025
  
